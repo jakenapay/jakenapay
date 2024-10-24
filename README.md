@@ -43,7 +43,7 @@ Additionally, I’m always eager to learn about new trends and advancements in w
 - ⚡ Fun fact: I love developing affordable web-applications    
 
 
-</td><td valign="top" width="50%">
+</td>>
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
