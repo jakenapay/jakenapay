@@ -1,15 +1,4 @@
 ## Hey 👋, I'm Jake Napay!  
-  
-
-<a href="https://github.com/jakenapay" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/jake-napay-ab6a96257" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-
-
 
 ### Glad to see you here!  
 I’m a web developer who has turned years of freelancing and years of college into a full-time career. Being a developer allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
@@ -20,24 +9,6 @@ Additionally, I’m always eager to learn about new trends and advancements in w
   
 
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on a freelance project  
-  
-
-- 🌱 I’m currently learning PHP Laravel  
-  
-
-- ❓ Ask me about anything related to WAMP stack and related technologies  
-  
-
-- ⚡ Fun fact: I love developing affordable web-applications    
-
-
-</td>
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -83,34 +54,3 @@ Additionally, I’m always eager to learn about new trends and advancements in w
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="25" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jakenapay&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakenapay&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=jakenapay&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
