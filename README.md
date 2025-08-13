@@ -35,6 +35,3 @@ Additionally, I’m always eager to learn about new trends and advancements in w
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 </div>  
-
-
-![Snake animation](https://github.com/jakenapay/jakenapay/blob/output/github-contribution-grid-snake.svg)
