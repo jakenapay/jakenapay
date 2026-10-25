@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="220" viewBox="0 0 840 220" shape-rendering="crispEdges" role="img" aria-label="Jake Napay, Full-Stack Web Developer">
+  <title>Jake Napay, Full-Stack Web Developer</title>
+  <defs>
+    <!-- Mosaic layers: every tile size is a different multiple of the 8px cell
+         (5, 7, 9, 11, 13 and 17 cells wide), so the layers rarely line up and
+         the combined band reads as random. -->
+    <pattern id="m1" width="40" height="24" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="8" height="8" fill="#006d32"/>
+      <rect x="24" y="8" width="8" height="8" fill="#006d32"/>
+      <rect x="8" y="16" width="8" height="8" fill="#006d32"/>
+      <rect x="32" y="16" width="8" height="8" fill="#006d32"/>
+    </pattern>
+    <pattern id="m2" width="56" height="32" patternUnits="userSpaceOnUse">
+      <rect x="16" y="0" width="8" height="8" fill="#26a641"/>
+      <rect x="40" y="8" width="8" height="8" fill="#26a641"/>
+      <rect x="0" y="24" width="8" height="8" fill="#26a641"/>
+      <rect x="32" y="24" width="8" height="8" fill="#26a641"/>
+    </pattern>
+    <pattern id="m3" width="72" height="40" patternUnits="userSpaceOnUse">
+      <rect x="48" y="0" width="8" height="8" fill="#39d353"/>
+      <rect x="8" y="8" width="8" height="8" fill="#39d353"/>
+      <rect x="56" y="24" width="8" height="8" fill="#39d353"/>
+      <rect x="24" y="32" width="8" height="8" fill="#39d353"/>
+    </pattern>
+    <pattern id="m4" width="88" height="48" patternUnits="userSpaceOnUse">
+      <rect x="64" y="16" width="8" height="8" fill="#0a2e1c"/>
+      <rect x="16" y="40" width="8" height="8" fill="#0a2e1c"/>
+      <rect x="40" y="0" width="8" height="8" fill="#0a2e1c"/>
+      <rect x="80" y="32" width="8" height="8" fill="#9be9a8"/>
+    </pattern>
+    <pattern id="m5" width="104" height="56" patternUnits="userSpaceOnUse">
+      <rect x="32" y="16" width="8" height="8" fill="#f2e8cf"/>
+      <rect x="80" y="40" width="8" height="8" fill="#7cc4ff"/>
+    </pattern>
+    <pattern id="m6" width="136" height="72" patternUnits="userSpaceOnUse">
+      <rect x="48" y="48" width="8" height="8" fill="#ff9e3d"/>
+      <rect x="112" y="8" width="8" height="8" fill="#f2e8cf"/>
+      <rect x="8" y="32" width="8" height="8" fill="#7cc4ff"/>
+    </pattern>
+    <!-- Sparse single-row patterns that break up the band's top and bottom edges -->
+    <pattern id="edgeInner" width="56" height="8" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="8" height="8" fill="#0e4429"/>
+      <rect x="16" y="0" width="8" height="8" fill="#006d32"/>
+      <rect x="24" y="0" width="8" height="8" fill="#0e4429"/>
+      <rect x="40" y="0" width="8" height="8" fill="#26a641"/>
+    </pattern>
+    <pattern id="edgeOuter" width="88" height="8" patternUnits="userSpaceOnUse">
+      <rect x="8" y="0" width="8" height="8" fill="#0e4429"/>
+      <rect x="48" y="0" width="8" height="8" fill="#006d32"/>
+      <rect x="72" y="0" width="8" height="8" fill="#0e4429"/>
+    </pattern>
+    <pattern id="edgeBottomInner" width="72" height="8" patternUnits="userSpaceOnUse">
+      <rect x="8" y="0" width="8" height="8" fill="#006d32"/>
+      <rect x="16" y="0" width="8" height="8" fill="#0e4429"/>
+      <rect x="40" y="0" width="8" height="8" fill="#0e4429"/>
+      <rect x="64" y="0" width="8" height="8" fill="#26a641"/>
+    </pattern>
+    <pattern id="edgeBottomOuter" width="104" height="8" patternUnits="userSpaceOnUse">
+      <rect x="24" y="0" width="8" height="8" fill="#0e4429"/>
+      <rect x="80" y="0" width="8" height="8" fill="#006d32"/>
+    </pattern>
+  </defs>
+
+  <rect width="840" height="220" fill="#1f1f1f"/>
+
+  <!-- Name + blinking cursor -->
+  <text x="32" y="62" font-family="'Courier New', monospace" font-size="46" font-weight="700" fill="#e6edf3">JAKE NAPAY</text>
+  <rect x="318" y="28" width="22" height="38" fill="#39d353">
+    <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Pixel mosaic band (y 88-168, ragged edges above and below) -->
+  <rect x="0" y="72" width="840" height="8" fill="url(#edgeOuter)"/>
+  <rect x="0" y="80" width="840" height="8" fill="url(#edgeInner)"/>
+  <rect x="0" y="88" width="840" height="80" fill="#0e4429"/>
+  <rect x="0" y="88" width="840" height="80" fill="url(#m1)"/>
+  <rect x="0" y="88" width="840" height="80" fill="url(#m2)"/>
+  <rect x="0" y="88" width="840" height="80" fill="url(#m3)"/>
+  <rect x="0" y="88" width="840" height="80" fill="url(#m4)"/>
+  <rect x="0" y="88" width="840" height="80" fill="url(#m5)"/>
+  <rect x="0" y="88" width="840" height="80" fill="url(#m6)"/>
+  <rect x="0" y="168" width="840" height="8" fill="url(#edgeBottomInner)"/>
+  <rect x="0" y="176" width="840" height="8" fill="url(#edgeBottomOuter)"/>
+
+  <!-- Title -->
+  <rect x="516" y="194" width="8" height="8" fill="#39d353"/>
+  <text x="808" y="202" text-anchor="end" font-family="'Courier New', monospace" font-size="14" font-weight="700" letter-spacing="3" fill="#8b949e">FULL-STACK WEB DEVELOPER</text>
+</svg>
