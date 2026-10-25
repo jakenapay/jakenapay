@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <picture><img src="https://skillicons.dev/icons?i=html,css,js,php,py,nodejs,bootstrap,tailwind,sass,electron,firebase,mysql,linux,git,github,arduino&perline=8" alt="HTML, CSS, JavaScript, PHP, Python, Node.js, Bootstrap, Tailwind, Sass, Electron, Firebase, MySQL, Linux, Git, GitHub, Arduino" /></picture>
+  <picture><img src="./assets/tech-stack.svg" alt="HTML, CSS, JavaScript, TypeScript, PHP, Python, Node.js, Laravel, CodeIgniter, Bootstrap, Tailwind, Sass, Electron, Firebase, MySQL, PostgreSQL, Linux, Git, GitHub, Arduino, TensorFlow, PyTorch, scikit-learn" /></picture>
 </p>
