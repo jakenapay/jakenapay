@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <picture><img src="./assets/tech-stack.svg" alt="HTML, CSS, JavaScript, TypeScript, PHP, Python, Node.js, Laravel, CodeIgniter, Bootstrap, Tailwind, Sass, Electron, Firebase, MySQL, PostgreSQL, Linux, Git, GitHub, Arduino, TensorFlow, PyTorch, scikit-learn" /></picture>
+  <picture><img src="./assets/tech-stack.svg" alt="HTML, CSS, JavaScript, TypeScript, PHP, Python, Node.js, Laravel, CodeIgniter, Bootstrap, Tailwind, Sass, Electron, Firebase, MySQL, PostgreSQL, Linux, Git, GitHub, Arduino, TensorFlow, PyTorch, scikit-learn, React Native" /></picture>
 </p>
