@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Jake Napay, Full-Stack Web Developer" />
+  <picture><img src="./assets/header.svg" width="100%" alt="Jake Napay, Full-Stack Web Developer" /></picture>
 </p>
 
 <p align="center">
-  <img src="./assets/about.svg" width="100%" alt="About me: who I am, what I do, always learning" />
+  <picture><img src="./assets/about.svg" width="100%" alt="About me: who I am, what I do, always learning" /></picture>
 </p>
 
 <div align="center">
@@ -15,7 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
+  <picture><img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" /></picture>
 </p>
 
 ### 🛠️ Tech Stack

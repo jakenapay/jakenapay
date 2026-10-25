@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-label="About Jake Napay">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="346" viewBox="0 0 840 346" role="img" aria-label="About Jake Napay">
   <title>About Jake Napay</title>
   <defs>
     <!-- Two overlapping 4px-pixel layers (7 and 5 cells wide) for the strips beside each title -->
@@ -17,32 +17,34 @@
       <stop offset="0.55" stop-color="#fff"/>
       <stop offset="0.95" stop-color="#000"/>
     </linearGradient>
-    <mask id="stripFade" maskUnits="userSpaceOnUse" x="0" y="0" width="840" height="300">
-      <rect width="840" height="300" fill="url(#fade)"/>
+    <mask id="stripFade" maskUnits="userSpaceOnUse" x="0" y="0" width="840" height="346">
+      <rect width="840" height="346" fill="url(#fade)"/>
     </mask>
   </defs>
 
-  <rect x="0.5" y="0.5" width="839" height="299" rx="10" fill="#262626" stroke="#3a3a3a" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="839" height="345" rx="10" fill="#262626" stroke="#3a3a3a" stroke-width="1"/>
 
   <g font-family="'Courier New', monospace">
     <!-- WHO I AM -->
     <text x="40" y="48" font-size="16" font-weight="700" letter-spacing="1" fill="#e6edf3">WHO I AM</text>
     <text font-size="14" fill="#b1b8c0">
-      <tspan x="40" y="76">Web developer who turned years of freelancing and college into a full-time career.</tspan>
-      <tspan x="40" y="98">I build client-facing apps and websites with modern backend support.</tspan>
+      <tspan x="40" y="76">Full-stack developer. I turn ideas into fast, secure, production-ready web apps,</tspan>
+      <tspan x="40" y="98">from clean interfaces to the systems that power them. Freelancing taught me to</tspan>
+      <tspan x="40" y="120">ship; every project since has taught me to ship better.</tspan>
     </text>
 
     <!-- WHAT I DO -->
-    <text x="40" y="144" font-size="16" font-weight="700" letter-spacing="1" fill="#e6edf3">WHAT I DO</text>
+    <text x="40" y="168" font-size="16" font-weight="700" letter-spacing="1" fill="#e6edf3">WHAT I DO</text>
     <text font-size="14" fill="#b1b8c0">
-      <tspan x="40" y="172">I specialize in web applications that solve real-world problems, focusing on</tspan>
-      <tspan x="40" y="194">seamless user experiences plus robust server-side performance and security.</tspan>
+      <tspan x="40" y="196">I specialize in web applications that solve real-world problems, pairing seamless</tspan>
+      <tspan x="40" y="218">user experiences with robust server-side performance and security.</tspan>
     </text>
 
     <!-- ALWAYS LEARNING -->
-    <text x="40" y="240" font-size="16" font-weight="700" letter-spacing="1" fill="#e6edf3">ALWAYS LEARNING</text>
+    <text x="40" y="264" font-size="16" font-weight="700" letter-spacing="1" fill="#e6edf3">ALWAYS LEARNING</text>
     <text font-size="14" fill="#b1b8c0">
-      <tspan x="40" y="268">I'm always learning new trends in web development to stay ahead of the curve.</tspan>
+      <tspan x="40" y="292">I stay current with emerging web technologies and best practices, continuously</tspan>
+      <tspan x="40" y="314">refining my skills to deliver modern, forward-thinking solutions.</tspan>
     </text>
   </g>
 
@@ -50,9 +52,9 @@
   <g shape-rendering="crispEdges" mask="url(#stripFade)">
     <rect x="144" y="40" width="656" height="8" fill="url(#s1)"/>
     <rect x="144" y="40" width="656" height="8" fill="url(#s2)"/>
-    <rect x="152" y="136" width="648" height="8" fill="url(#s1)"/>
-    <rect x="152" y="136" width="648" height="8" fill="url(#s2)"/>
-    <rect x="216" y="232" width="584" height="8" fill="url(#s1)"/>
-    <rect x="216" y="232" width="584" height="8" fill="url(#s2)"/>
+    <rect x="152" y="160" width="648" height="8" fill="url(#s1)"/>
+    <rect x="152" y="160" width="648" height="8" fill="url(#s2)"/>
+    <rect x="216" y="256" width="584" height="8" fill="url(#s1)"/>
+    <rect x="216" y="256" width="584" height="8" fill="url(#s2)"/>
   </g>
 </svg>
